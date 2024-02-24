@@ -1,1 +1,1 @@
-print("hello darkness my old friend kk")
+print("hello darkness my old friend k lool")
